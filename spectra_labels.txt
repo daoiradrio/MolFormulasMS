@@ -1,0 +1,5 @@
+spectrum1 methane
+spectrum2 ethylchloride
+spectrum3 benzene
+spectrum4 phosphine
+spectrum5 sulfuric acid
